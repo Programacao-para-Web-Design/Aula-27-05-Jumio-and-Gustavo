@@ -12,9 +12,7 @@
 				font-size: 25px;
 				text-align: center;
 			}
-			#nav{
-				box-shadow: 4px 4px 5px 0px black;
-			}
+
 			#nomees{
 				font-size: 17px;
 				text-align: center;
@@ -32,7 +30,8 @@
 				margin: auto;
 			}
 			#Nav{
-				background-color: yellow; 
+				background-color: yellow;
+				box-shadow: 4px 4px 5px 0px black;
 			}
 			#man{
 				background-color: green; 

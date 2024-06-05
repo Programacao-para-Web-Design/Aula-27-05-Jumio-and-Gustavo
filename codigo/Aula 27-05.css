@@ -2,14 +2,91 @@
 <html lang="pt br">
 	<head>
 		<style>
-			.titulo{
+			#titulo1{
 				font-weight: bolder;
 				font-size: 17px;
 				text-align: center;
-				display: inline;
-				margin-left: auto;
-				margin-right: auto; 
-	}
+			}
+			#titulo2{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo3{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo4{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo5{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo6{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo7{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo8{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo9{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo10{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo11{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo12{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo13{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo14{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo15{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo16{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
+			#titulo17{
+				font-weight: bolder;
+				font-size: 17px;
+				text-align: center;
+			}
 			#devj{
 				font-style: italic;
 				font-size: 25px;

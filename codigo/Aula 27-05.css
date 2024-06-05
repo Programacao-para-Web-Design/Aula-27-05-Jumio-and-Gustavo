@@ -2,88 +2,7 @@
 <html lang="pt br">
 	<head>
 		<style>
-			#titulo1{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo2{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo3{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo4{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo5{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo6{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo7{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo8{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo9{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo10{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo11{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo12{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo13{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo14{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo15{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo16{
-				font-weight: bolder;
-				font-size: 17px;
-				text-align: center;
-			}
-			#titulo17{
-				font-weight: bolder;
+			.nome{
 				font-size: 17px;
 				text-align: center;
 			}
@@ -101,37 +20,37 @@
 			}
 			#Body{
 				background-color: blue; 
-	}
+			}
 			#Header{
 				background-color: red; 
-	}
+			}
 			#logo{
 				background-color: white; 
-	}
+			}
 			#Nav{
 				background-color: yellow; 
-	}
+			}
 			#man{
 				background-color: green; 
-	}
+			}
 			#ass{
 				background-color: pink; 
-	}
+			}
 			#sex{
 				background-color: purple; 
-	}
+			}
 			#art{
 				background-color: orange; 
-	}
+			}
 			#art2{
 				background-color: brown; 
-	}
+			}
 			#ass2{
 				background-color: gray; 
-	}
+			}
 			#fot{
 				background-color: maroon; 
-	}
+			}
 		</style>
 	</head>
 	<body>

@@ -12,6 +12,9 @@
 				font-size: 13px;
 				text-align: center;
 			}
+			#nav{
+				box-shadow: 10px 10px gray;
+			}
 			#nomees{
 				font-size: 17px;
 				text-align: center;

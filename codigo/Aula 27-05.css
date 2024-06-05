@@ -3,9 +3,9 @@
 	<head>
 		<style>
 			.nome{
+				font-weight: bold;	
 				font-size: 17px;
 				text-align: center;
-				font-weight: bold;
 			}
 			#devj{
 				font-style: italic;

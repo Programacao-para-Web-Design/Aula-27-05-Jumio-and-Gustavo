@@ -4,8 +4,18 @@
 		<style>
 			.titulo{
 				font-weight: bolder;
-				font-size: 16px;
+				font-size: 17px;
+				text-align: center;
 	}
+			#devj{
+				font-style: italic;
+				font-size: 13px;
+				text-align: center;
+			}
+			#nomees{
+				font-size: 17px;
+				text-align: center;
+			}
 			#Body{
 				background-color: blue; 
 	}

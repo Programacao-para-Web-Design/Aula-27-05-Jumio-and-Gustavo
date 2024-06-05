@@ -6,6 +6,36 @@
 				font-weight: bolder;
 				font-size: 16px;
 	}
+			#Body{
+				background-color: blue; 
+	}
+			#Header{
+				background-color: red; 
+	}
+			#Nav{
+				background-color: yellow; 
+	}
+			#man{
+				background-color: green; 
+	}
+			#ass{
+				background-color: pink; 
+	}
+			#sex{
+				background-color: purple; 
+	}
+			#art{
+				background-color: orange; 
+	}
+			#art2{
+				background-color: brown; 
+	}
+			#ass2{
+				background-color: gray; 
+	}
+			#fot{
+				background-color: maroon; 
+	}
 		</style>
 	</head>
 	<body>

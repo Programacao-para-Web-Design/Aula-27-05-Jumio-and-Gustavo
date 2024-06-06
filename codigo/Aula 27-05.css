@@ -25,51 +25,40 @@
 			}
 			#Header{
 				background-color: red; 
-				display: flex;
-				justify-content: space-around;
+
 			}
 			#logo{
 				background-color: white;
 			#Nav{
 				background-color: yellow;
 				box-shadow: 7px 7px 9px 0px black;
-				display: flex;
-				justify-content: space-around;
 			}
 			#man{
 				background-color: green; 
-				display: flex;
-				justify-content: space-around;
+
 			}
 			#ass{
 				background-color: pink; 
-				display: flex;
-				justify-content: space-around;
 			}
 			#sex{
 				background-color: purple; 
-				display: flex;
-				justify-content: space-around;
+
 			}
 			#art{
 				background-color: orange; 
-				display: flex;
-				justify-content: space-around;
+
 			}
 			#art2{
 				background-color: brown; 
-				display: flex;
-				justify-content: space-around;
+
 			}
 			#ass2{
 				background-color: gray; 
-				display: flex;
-				justify-content: space-around;
+
 			}
 			#fot{
 				background-color: maroon; 
-				display: flex;
-				justify-content: space-around;
+
 			}
 		</style>
 	</head>

@@ -3,6 +3,10 @@
 		font-size: 20px;
 		text-align: center; 
 	}
+
+	.A: hover{
+		cursor: pointer;
+	}
 	#devj{ 
 		font-style: italic;
 		font-size: 25px;

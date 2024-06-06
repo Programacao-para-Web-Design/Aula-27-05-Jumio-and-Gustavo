@@ -18,7 +18,8 @@
 				text-align: center;
 			}
 			#Body{
-				background-color: blue; 
+				background-color: blue;
+				display: flex;
 			}
 			#Header{
 				background-color: red; 

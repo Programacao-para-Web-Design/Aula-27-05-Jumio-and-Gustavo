@@ -4,7 +4,11 @@
 		text-align: center; 
 	}
 
+	.A{
+		color: black;
+	}
 	.A: hover{
+		color: red;
 		cursor: pointer;
 	}
 	#devj{ 

@@ -41,7 +41,6 @@
 	nav{ 
 		display: flex;
 		background-color: blue;
-		color: black;
 		box-shadow: 7px 7px 9px 0px black;
 		font-weight: bold;
 		font-size: 20px;

@@ -21,6 +21,7 @@
 			#Body{
 				background-color: blue;
 				display: flex;
+				justify-content: space-around;
 			}
 			#Header{
 				background-color: red; 

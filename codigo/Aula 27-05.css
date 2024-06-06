@@ -36,18 +36,28 @@
 	} 
 	#ass{ 
 		background-color: pink;
+		justify-content: space-around;
+		display: flex;
 	} 
 	#sex{ 
 		background-color: purple;
+		justify-content: space-around;
+		display: flex;
 	} 
 	#art{ 
 		background-color: orange;
+		justify-content: space-around;
+		display: flex;
 	} 
 	#art2{ 
 		background-color: brown;
+		justify-content: space-around;
+		display: flex;
 	} 
 	#ass2{ 
 		background-color: gray; 
+		justify-content: space-around;
+		display: flex;
 	} 
 	footer{ 
 		background-color: maroon; 

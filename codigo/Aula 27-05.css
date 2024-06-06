@@ -5,6 +5,8 @@
 			.nome{
 				font-weight: bold;	
 				font-size: 17px;
+				display: flex;
+				justify-content: space-around;
 				
 			}
 			#devj{
@@ -29,28 +31,44 @@
 			#Nav{
 				background-color: yellow;
 				box-shadow: 7px 7px 9px 0px black;
+				justify-content: space-around;
+				display: flex;
 			}
 			#man{
 				background-color: green; 
+				justify-content: space-around;
+				display: flex;
 			}
 			#ass{
 				background-color: pink; 
+				justify-content: space-around;
+				display: flex;
 			}
 			#sex{
-				background-color: purple; 
+				background-color: purple; 				
+				justify-content: space-around;
+				display: flex;
 			}
 			#art{
-				background-color: orange; 
+				background-color: orange; 			
+				justify-content: space-around;
+				display: flex;
 			}
 			#art2{
-				background-color: brown; 
+				background-color: brown; 			
+				justify-content: space-around;
+				display: flex;
 			}
 			#ass2{
-				background-color: gray; 
+				background-color: gray; 		
+				justify-content: space-around;
+				display: flex;
 
 			}
 			#fot{
-				background-color: maroon; 
+				background-color: maroon; 	
+				justify-content: space-around;
+				display: flex;
 
 			}
 		</style>

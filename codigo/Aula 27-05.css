@@ -22,6 +22,7 @@
 		justify-content: center;
 		align-items: center;
 		text-align: center;
+		pading: 2px;
 	} 
 	#logo{ 
 		background-color: white;
@@ -35,9 +36,11 @@
 		text-align: center; 
 		justify-content: center;
 		align-items: center;	
+		pading: 2px;
 	} 
 	ul{ 
 		justify-content: space-around;
+		pading: 2px;
 	} 
 	main{ 
 		background-color: pink;
@@ -45,6 +48,7 @@
 		display: flex;
 		height: 60vh;
 		width: 100%;
+		pading: 2px;
 	} 
 	#ass{ 
 		background-color: green;
@@ -53,6 +57,7 @@
 		margin-top: 10px;
 		width: 21%; 
 		height: 90%;
+		pading: 2px;
 	} 
 	#sex{ 
 		background-color: orange;
@@ -60,7 +65,7 @@
 		display: flex;
 		margin-top: 10px;
 		margin-right: 10px;
-
+		pading: 2px;
 		width: 78%;
 		height: 90%;
 	} 
@@ -71,6 +76,7 @@
 		margin: 20px 10px 10px 20px; 
 		width: 97%;
 		height: 45%;
+		pading: 2px;
 	} 
 	#art2{ 
 		background-color: maroon;
@@ -79,6 +85,7 @@
 		margin: 10px 10px 10px 20px; 
 		width: 97%;
 		height: 45%;
+		pading: 2px;
 	}
 
 	#ass2{ 
@@ -88,6 +95,7 @@
 		margin-left: 69%;
 		top: 150px;
 		width: 30%;
+		pading: 2px;
 		height: 97%;
 	} 
 	footer{ 

@@ -14,7 +14,7 @@
 
 	} 
 	#Body{ 
-		background-color: blue;
+		background-color: yellow;
 		
 	} 
 	header{ 
@@ -25,7 +25,7 @@
 	} 
 	nav{ 
 		display: flex;
-		background-color: yellow;
+		background-color: blue;
 		box-shadow: 7px 7px 9px 0px black;
 		font-weight: bold;
 		font-size: 20px;
@@ -38,25 +38,25 @@
 		text-align: center; 
 	} 
 	main{ 
-		background-color: green;
+		background-color: pink;
 	} 
 	#ass{ 
-		background-color: pink;
+		background-color: green;
 		justify-content: space-around;
 		display: flex;
 	} 
 	#sex{ 
-		background-color: purple;
-		justify-content: space-around;
-		display: flex;
-	} 
-	#art{ 
 		background-color: orange;
 		justify-content: space-around;
 		display: flex;
 	} 
+	#art{ 
+		background-color: purple;
+		justify-content: space-around;
+		display: flex;
+	} 
 	#art2{ 
-		background-color: brown;
+		background-color: maroon;
 		justify-content: space-around;
 		display: flex;
 	} 
@@ -66,6 +66,6 @@
 		display: flex;
 	} 
 	footer{ 
-		background-color: maroon; 
+		background-color: brown;
 		width: 100%; 
 	}

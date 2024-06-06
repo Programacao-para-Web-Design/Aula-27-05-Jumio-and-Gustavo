@@ -6,6 +6,7 @@
 				font-weight: bold;	
 				font-size: 17px;
 				text-align: center;
+				
 			}
 			#devj{
 				font-style: italic;
@@ -19,6 +20,7 @@
 			}
 			#Body{
 				background-color: blue;
+				display: flex;
 			}
 			#Header{
 				background-color: red; 

@@ -76,7 +76,7 @@
 		margin-top: 10px;
 		margin-right: 10px;
 		pading: 2px;
-		width: 78%;
+		width: 58%;
 		height: 90%;
 	} 
 	#art{ 
@@ -85,7 +85,7 @@
 		display: flex;
 		margin: 20px 10px 10px 20px; 
 		width: 97%;
-		height: 45%;
+		height: 55%;
 		pading: 2px;
 	} 
 	#art2{ 
@@ -93,8 +93,8 @@
 		justify-content: space-around;
 		display: flex;
 		margin: 10px 10px 10px 20px; 
-		width: 97%;
-		height: 45%;
+		width: 99%;
+		height: 55%;
 		pading: 2px;
 	}
 
@@ -104,7 +104,7 @@
 		display: flex;
 		margin-left: 69%;
 		top: 150px;
-		width: 30%;
+		width: 50%;
 		pading: 2px;
 		height: 97%;
 	} 

@@ -63,7 +63,8 @@
 	#ass{ 
 		background-color: green;
 		justify-content: space-around;
-		display: flex;
+		display: none;
+		text-transform: uppercase;
 		margin-top: 10px;
 		width: 21%; 
 		height: 90%;
@@ -112,7 +113,7 @@
 		background-color: gray; 
 		justify-content: space-around;
 		display: flex;
-		margin-left: 69%;
+		margin-left: 29%;
 		top: 150px;
 		width: 50%;
 		pading: 2px;
